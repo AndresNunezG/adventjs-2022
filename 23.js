@@ -50,6 +50,7 @@ All the commands provided are already validated and guaranteed to be correct.
 Based on SpaceX technical interview from CodeSignal
  */
 
+//SCORE: 10
 function executeCommands(commands) {
 
   const REGS = {
